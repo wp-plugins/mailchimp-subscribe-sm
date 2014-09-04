@@ -55,6 +55,29 @@ add_action('init','ss_m_custom_post_type');
 /////////////////////////// Removing post name from perma link ///////////////////////////
 
 
+add_action("load-post-new.php","ssmf_count_user_posts_by_type");
+
+    function ssmf_count_user_posts_by_type( $userid, $post_type = 'subscribe_me_forms' ) {
+    global $wpdb;
+
+    $userid = get_current_user_id();
+
+    $where = get_posts_by_author_sql( $post_type, true, $userid );
+
+    $count = $wpdb->get_var( "SELECT COUNT(*) FROM $wpdb->posts $where" );
+
+    $screen = get_current_screen();
+
+    if (current_user_can( 'edit_posts') and $screen->post_type === 'subscribe_me_forms') { 
+        //Is  admin and all users - so impose the limit
+        if($count>=1)
+            header("Location: /wp-content/plugins/mailchimp-subscribe-sm/phuf.php");
+            
+
+        }
+    }
+
+
 
 
 ?>
