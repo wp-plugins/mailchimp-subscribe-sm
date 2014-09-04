@@ -2,7 +2,7 @@
 Contributors: umarbajwa,websettler
 Tags: feedburner, feedburner feedback form,subscribe, subscriber, subscriber form,email, mailchimp, marketing, newsletter, plugin, signup, widget,bbPress, buddypress, checkbox, comment, contact form, contact form 7, easy digital downloads, form, newsletter, shortcode, widget, woocommerce, email, forms, mailchimp, mailing lists, marketing, newsletter, sign up, sign-up form,contact us newsletter form, contacts, contactus.com, ContactUs.com Newsletter Form, feedback, form, lead management, leads, mailchimp, MailChimp form, MailChimp Newsletter form, MailChimp plugin, newsletter, newsletter button, newsletter form, newsletter form plugin, signup, signup form, widget
 Requires at least: 3.2
-Tested up to: 3.9.2
+Tested up to: 4.0
 Stable tag: 1.0
 License: GPLv2 or later
 
@@ -31,7 +31,7 @@ not just increase your subscribers but maximize them.
 * No Powered by or created by message.
 
 
-<a href='http://web-settler.com/mailchimp-subscribe-form'>—————— (Premium Features) ————</a>
+<a href='http://web-settler.com/mailchimp-subscribe-form/'>—————— (Premium Features) ————</a>
 
 
 * Responsive Forms
@@ -44,7 +44,7 @@ Just install use short-code and start using.
 
 == Screenshots ==
 
-For screenshots Please visit <a href='http://web-settler.com/mailchimp-subscribe-form'>Click Here</a>
+For screenshots Please visit <a href='http://web-settler.com/mailchimp-subscribe-form/'>Click Here</a>
 
 
 
