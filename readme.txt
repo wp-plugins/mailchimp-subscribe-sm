@@ -6,7 +6,11 @@ Tested up to: 3.9.2
 Stable tag: 1.0
 License: GPLv2 or later
 
-==Description==
+
+Create Beautiful Subscribe Forms easily in less than 1 minute.
+
+
+== Description ==
 
 Create Beautiful Subscribe Forms easily in less than 1 minute.
 
