@@ -15,7 +15,7 @@ $data = array(
 	);
 	*/
 
-$file = "sm_subscribers_list.php"; 
+$file = "sm_subcribers-list.csv"; 
 
 
 $fp = fopen($file, "a")or die("Error Couldn't open $file for writing!");

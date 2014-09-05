@@ -19,8 +19,14 @@ function ssm_shortcode_meta($post){
     wp_nonce_field( 'my_meta_box_nonce', 'meta_box_nonce' );
 
     ?>
+    <style type="text/css">
+    #ssm_shortcode_meta{
+      border-top: 5px solid #A7D476;
+    }
 
-    <p> [ssm_form id='<?php echo $postid; ?>']</p>
+    </style>
+    <p> Use following Shortcode in your posts or text widget to show form.</p>
+    <p style='font-weight:bold; font-size:20px;'> [ssm_form id='<?php echo $postid; ?>']</p>
     
 
     <?php

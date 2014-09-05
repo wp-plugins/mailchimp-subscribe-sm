@@ -69,11 +69,20 @@ function add_ssm_sub_menu_mailchimp(){
 
 function add_ssm_subscribers_list_menu(){
 	?>
+	<div style='padding:50px; margin:0 auto; margin-top:50px; background:#6C7A89;color:#fff;font-family:sans-serif,arial;font-size:17px; width:60%;'>
+	<?php
+
+	$lpp_file = include 'sm_subcribers-list.csv'; 
+
+	echo $lpp_file;
+
+
+	 ?>
+</div>
 	<a href="<?php echo plugins_url('/subscriber-list-download.php',__FILE__); ?>">DOWNLOAD LIST</a>
 	<br>
 
 	<?php
-	include 'sm_subcribers-list.csv';
 }
 
 

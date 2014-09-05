@@ -55,7 +55,10 @@ For screenshots Please visit <a href='http://web-settler.com/mailchimp-subscribe
 
 1. Upload \`plugin-name.php\` to the \`/wp-content/plugins/\` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress.
-3. Use Shortcode provided in options panel.
+3. A menu item entitled “ SM Forms ” will Appear.
+4. Create New Form.  
+5. Use Shortcode provided in options panel to show the form in posts.
+
 
 
 
