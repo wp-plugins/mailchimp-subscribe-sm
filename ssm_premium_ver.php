@@ -21,6 +21,9 @@ function ssm_premium_ver($post){
 
 </style>
 <li>
+	 Unlock All Templates.
+</li>
+<li>
 	Unlimited Forms.
 </li>
 <li>
@@ -32,7 +35,7 @@ function ssm_premium_ver($post){
 <li>
 	Unlimited Updates.
 </li>
-<a href='http://web-settler.com/mailchimp-subscribe-form/' style='text-decoration: none;' href="#" target='_blank'><div id='rate_button' style=''>Get Premium Version</div></a>
+<a style='text-decoration: none;' href="http://web-settler.com/mailchimp-subscribe-form/" target='_blank'><div id='rate_button' style=''>Get Premium Version</div></a>
 
 
 <?php

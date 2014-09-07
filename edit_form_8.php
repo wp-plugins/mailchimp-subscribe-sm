@@ -86,9 +86,9 @@
 			<div class="sm_email_div">
 				<input disabled type='email' id='sm_input' class='sm_field' name='sm_email' placeholder='EMAIL' required >
 			</div>
-				<button disabled type='submit' id='sm_submit' class='sm_submit'>
+				<div disabled  type='submit' id='sm_submit' class='sm_submit'>
 					<input type='text' name='sm_form_cta_text' value='<?php echo $sm_form_cta_text; ?>' placeholder='CTA Text' class='sm_input_field' style='width:75%; height:50px;font-size:22px; text-align: center;' >
-				</button> 
+				</div> 
 
 		</form>
 	</div>

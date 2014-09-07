@@ -113,7 +113,7 @@ function ssm_select_form_meta($post){
         </label>
 
         Template -4
-        <input type="radio" id='lpp_select_template4' name='ssm_select_form_template' value='form_4.php'
+        <input disabled type="radio" id='lpp_select_template4' name='disabled_ssm_select_form_template' value='form_4.php'
         <?php checked( "form_4.php", $ssm_select_form_template); ?>
         >
         <label for='lpp_select_template4'>
@@ -121,7 +121,7 @@ function ssm_select_form_meta($post){
         </label>
 
         Template -7
-        <input type="radio" id='lpp_select_template7' name='ssm_select_form_template' value='form_7.php'
+        <input disabled type="radio" id='lpp_select_template7' name='disabled_ssm_select_form_template' value='form_7.php'
         <?php checked( "form_7.php", $ssm_select_form_template); ?>
         >
         <label for='lpp_select_template7'>
@@ -134,7 +134,7 @@ function ssm_select_form_meta($post){
 
 
         Template -2
-        <input type="radio" id='lpp_select_template2' name='ssm_select_form_template' value='form_2.php'
+        <input  type="radio" id='lpp_select_template2' name='ssm_select_form_template' value='form_2.php'
         <?php checked( "form_2.php", $ssm_select_form_template); ?>
         >
 
@@ -143,7 +143,7 @@ function ssm_select_form_meta($post){
         </label>
 
         Template -5
-        <input type="radio" id='lpp_select_template5' name='ssm_select_form_template' value='form_5.php'
+        <input disabled type="radio" id='lpp_select_template5' name='disabled_ssm_select_form_template' value='form_5.php'
         <?php checked( "form_5.php", $ssm_select_form_template); ?>
         >
         <label for='lpp_select_template5'>
@@ -151,7 +151,7 @@ function ssm_select_form_meta($post){
         </label>
 
         Template -8
-        <input type="radio" id='lpp_select_template8' name='ssm_select_form_template' value='form_8.php'
+        <input disabled type="radio" id='lpp_select_template8' name='disabled_ssm_select_form_template' value='form_8.php'
         <?php checked( "form_8.php", $ssm_select_form_template); ?>
         >
         <label for='lpp_select_template8'>
@@ -164,7 +164,7 @@ function ssm_select_form_meta($post){
 </div>
 <div id='lpp_row_3'>
     Template -3
-        <input type="radio" id='lpp_select_template3' name='ssm_select_form_template' value='form_3.php'
+        <input disabled type="radio" id='lpp_select_template3' name='disabled_ssm_select_form_template' value='form_3.php'
         <?php checked( "form_3.php", $ssm_select_form_template); ?>
         >
 
@@ -173,7 +173,7 @@ function ssm_select_form_meta($post){
         </label>
 
         Template -6
-        <input type="radio" id='lpp_select_template6' name='ssm_select_form_template' value='form_6.php'
+        <input disabled type="radio" id='lpp_select_template6' name='disabled_ssm_select_form_template' value='form_6.php'
         <?php checked( "form_6.php", $ssm_select_form_template); ?>
         >
         <label for='lpp_select_template6'>
@@ -183,8 +183,9 @@ function ssm_select_form_meta($post){
        
 </div>
     </div>
-
+<a href="http://web-settler.com/mailchimp-subscribe-form/" target='_blank' style='font-size:24px;'id='pr_msg_link'><i>To Unlock all Templates Click Here</i></a>
 <div style='width:100%;text-align:center; background:#e3e3e3;height:60px;border-left:5px solid #a7d142;'>
+
  <?php submit_button('Update');?>
 </div>
 

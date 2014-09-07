@@ -38,9 +38,6 @@
 	#sm_form > input[type="button"]{
 
 		margin: 0 ;
-		padding: 0 !important;
-		height: 35px !important; 
-		width: 130px !important;
 		border: none !important;
 		color: #fff !important;
 		font-size: 18px !important;
@@ -84,9 +81,7 @@
 	}
 	.sm_submit,#sm_submit{
 		margin: 0 ;
-		padding: 0 !important;
-		height: 35px !important; 
-		width: 130px !important;
+		padding:1.2% 4% 1.5% 4% !important;
 		border: none !important;
 		color: #fff !important;
 		font-size: 18px !important;
@@ -136,7 +131,6 @@
 		<p><?php echo get_post_meta($post->ID,'sm_form_content',true); ?></p>
 		<?php echo get_post_meta($post->ID,'ssm_select_data_save_method',true); ?>
 
-			 <input type='text'  class='sm_field' name="sm_name" id="sm_name" placeholder='Enter Your Name'  >
 			  <input type='email'  class='sm_field' name="sm_email" id="sm_email" placeholder='Enter Your Email Address...' required >
 			  <input type="submit"  name="submit" value="<?php echo get_post_meta($post->ID,'sm_form_cta_text',true); ?>" class="sm_submit" id='sm_submit' />
 			

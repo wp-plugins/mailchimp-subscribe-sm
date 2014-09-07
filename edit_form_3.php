@@ -87,9 +87,7 @@
 			<p>
 				<input disabled type='email' id='sm_input' class='sm_field' name='sm_email' placeholder='Enter Your Email Address...' required >
 				<br>
-				<button disabled type='submit' id='sm_submit' class='sm_submit'>
-					<input type='text' name='sm_form_cta_text' value='<?php echo $sm_form_cta_text; ?>' placeholder='CTA Text' class='sm_input_field' style='width:80%; height:25px;' >
-				</button> 
+					<input  type='text' name='sm_form_cta_text' value='<?php echo $sm_form_cta_text; ?>' placeholder='CTA Text' class='sm_input_field' style='width:40%;margin-left:30%; height:35px;' >
 
 			</p>
 		</form>

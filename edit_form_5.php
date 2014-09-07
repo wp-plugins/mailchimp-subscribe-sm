@@ -53,12 +53,13 @@
 		box-shadow: none;
 	}
 	.sm_submit{
-		height: 35px;
-		padding:2% 5% 4% 5%;
+		height: 55px;
+		width: 300px;
 		border: none;
 		color: #fff;
 		font-size: 17px;
 		margin-top: 2%;
+		margin-left: 30%;
 		background:#f26964;
 		box-shadow:0px 3px 0px #c1524e;
 
@@ -92,9 +93,9 @@
 				<input disabled type='text' id='sm_input' class='sm_field' name='sm_name' placeholder='Enter Your Name...'  >
 				<input disabled type='email' id='sm_input' class='sm_field' name='sm_email' placeholder='Enter Your Email Address...' required >
 				<br>
-				<button disabled type='submit' id='sm_submit' class='sm_submit'>
-					<input type='text' name='sm_form_cta_text' value='<?php echo $sm_form_cta_text; ?>' placeholder='CTA Text' class='sm_input_field' style='width:90%; height:25px;' >
-				</button> 
+				<div disabled type='submit' id='sm_submit' class='sm_submit'>
+					<input type='text' name='sm_form_cta_text' value='<?php echo $sm_form_cta_text; ?>' placeholder='CTA Text' class='sm_input_field' style='width:80%; height:35px;' >
+				</div> 
 
 			</p>
 		</form>

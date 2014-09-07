@@ -70,7 +70,7 @@ add_action("load-post-new.php","ssmf_count_user_posts_by_type");
 
     if (current_user_can( 'edit_posts') and $screen->post_type === 'subscribe_me_forms') { 
         //Is  admin and all users - so impose the limit
-        if($count>=1)
+        if($count>=2)
             header("Location: /wp-content/plugins/mailchimp-subscribe-sm/phuf.php");
             
 

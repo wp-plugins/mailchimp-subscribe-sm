@@ -20,7 +20,7 @@ add_action('add_meta_boxes','ssm_add_meta_boxes');
     add_meta_box('ssm_shortcode_meta' ,'Form Shortcode','ssm_shortcode_meta', 'subscribe_me_forms','side','high');
 
     add_meta_box('ssm_premium_ver' ,'Get More Awesome Features','ssm_premium_ver', 'subscribe_me_forms','side','high');
-    add_meta_box('ssm_reating_meta' ,'Get Premium Version Free','ssm_reating_meta', 'subscribe_me_forms','side','low');
+    //add_meta_box('ssm_reating_meta' ,'Get Premium Version Free','ssm_reating_meta', 'subscribe_me_forms','side','low');
 
     add_meta_box('ssm_select_form_meta' ,'Select Form Template','ssm_select_form_meta', 'subscribe_me_forms','normal','high');
 
