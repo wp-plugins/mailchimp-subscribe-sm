@@ -1,4 +1,4 @@
-=== Mailchimp Subscribe Form ===
+=== Mailchimp Subscribe Forms ===
 Contributors: umarbajwa,websettler
 Tags: feedburner, feedburner feedback form,subscribe, subscriber, subscriber form,email, mailchimp, marketing, newsletter, plugin, signup, widget,bbPress, buddypress, checkbox, contact form, contact form 7, easy digital downloads, form, newsletter, shortcode, widget, woocommerce, email, forms, mailchimp, mailing lists, marketing, newsletter, sign up, sign-up form,contact us newsletter form, contacts, contactus.com, ContactUs.com Newsletter Form, feedback, form, lead management, leads, mailchimp, MailChimp form, MailChimp Newsletter form, MailChimp plugin, newsletter, newsletter button, newsletter form, newsletter form plugin, signup, signup form,landing page,pages 
 Requires at least: 3.2
