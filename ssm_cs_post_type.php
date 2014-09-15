@@ -24,7 +24,6 @@ function ss_m_custom_post_type(){
     'labels' => $labels,
     'description' => 'Create SM Forms',
     'public' => true,
-    'menu_position' => 25,
     'supports' => array('title','custom_fields'),
     'has_archive' => true,
     'capability_type' => 'page',
