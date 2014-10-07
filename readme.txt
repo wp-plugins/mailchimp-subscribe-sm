@@ -26,6 +26,7 @@ not just increase your subscribers but maximize them.
 * Visual Template Editor.
 * Mailchimp Forms Supported.
 * Shortcode Supported.
+* Shortcode can be used in widgets.
 * Form data can also be saved in database.
 * Download form data in form of .csv file.
 * No coding skills required.
