@@ -23,6 +23,7 @@ function ss_m_custom_post_type(){
   $args = array(
     'labels' => $labels,
     'description' => 'Create SM Forms',
+    'menu_postition' => 25,
     'public' => true,
     'supports' => array('title','custom_fields'),
     'has_archive' => true,
