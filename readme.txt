@@ -1,21 +1,28 @@
 === Subscribe Forms ===
 Contributors: umarbajwa,websettler
-Tags: feedburner, feedburner feedback form,subscribe, subscriber, subscriber form,email, mailchimp, marketing, newsletter, plugin, signup, widget,bbPress, buddypress, checkbox, contact form, contact form 7, easy digital downloads, form, newsletter, shortcode, widget, woocommerce, email, forms, mailchimp, mailing lists, marketing, newsletter, sign up, sign-up form,contact us newsletter form, contacts, contactus.com, ContactUs.com Newsletter Form, feedback, form, lead management, leads, mailchimp, MailChimp form, MailChimp Newsletter form, MailChimp plugin, newsletter, newsletter button, newsletter form, newsletter form plugin, signup, signup form,landing page,pages 
+Tags: feedburner, feedburner feedback form,subscribe, subscriber, subscriber form,email, mailchimp, marketing, newsletter, plugin, signup, widget,bbPress, buddypress, checkbox, contact form, contact form 7, easy digital downloads, form, newsletter, shortcode, widget, woocommerce, email, forms, mailchimp, mailing lists, marketing, newsletter, sign up, sign-up form,contact us newsletter form, contacts, contactus.com, ContactUs.com Newsletter Form, feedback, form, lead management, leads, mailchimp, MailChimp form, MailChimp Newsletter form, MailChimp plugin, newsletter, newsletter button, newsletter form, newsletter form plugin, signup, signup form,landing page,pages,twitter,widgets,images,shortcode,post,admin,comments
 Requires at least: 3.2
 Tested up to: 4.0
 Stable tag: 1.1
 License: GPLv2 or later
 
 
-Create Beautiful Subscribe Forms easily in less than 1 minute.
+Create Beautiful Professional looking Subscribe Forms easily in less than 1 minute and increase your conversions more than 300%.
 
 
 == Description ==
 
 Create Beautiful Subscribe Forms easily in less than 1 minute.
 
- From now you don’t need to create boring white subscribe forms that does not convert. Use  Subscribe forms and create, Using Premium form templates which are designed to      
-not just increase your subscribers but maximize them.
+From now you don’t need to create boring white subscribe forms that does not convert. Use  Subscribe forms and create, Using Premium form templates which are designed to not just increase your subscribers but maximize them.
+
+> <strong>Simple, Easy to Use, Subscribe Form Plugin Saves you hours of work</strong> 
+
+You can create high converting subscribe forms in seconds without having any technical knowledge. MailChimp Subscribe Form offers beautiful templates that are designed to increase subscribers. You can collect subscribers data and send it directly to MailChimp or save it in your database and export as .csv file for any E-mail marketing service. 
+
+With MailChimp Subscribe form plugin you can easily change the styling of your forms in no time to match the styling of your theme. Now its time to get rid of boring white and grey subscribe forms on which no one pays attention.
+
+With our collection of Subscribe Form templates your Forms will look as good as they perform. Designed to maximize your subscribers. Our Subscribe Form templates offer complete flexibility and are easily customizable. Easy to use template editor will boost your speed of Subscribe Form creation.
 
 <strong>Use our form building techniques and we guarantee you more than 100% increase in subscribers</strong>
 
@@ -24,7 +31,7 @@ not just increase your subscribers but maximize them.
 
 * Beautiful Premium templates + Free Templates.
 * Visual Template Editor.
-* Mailchimp Forms Supported.
+* MailChimp Supported.
 * Shortcode Supported.
 * Shortcode can be used in widgets.
 * Form data can also be saved in database.
@@ -47,13 +54,13 @@ Just install use short-code and start using.
 
 
 == Screenshots ==
-For screenshots Please visit <a href='http://web-settler.com/mailchimp-subscribe-form/'>Click Here</a>
+For screenshots and more info visit <a href='http://web-settler.com/mailchimp-subscribe-form/'>Screenshots</a>
 
 
 
 
 == Installation ==
-1. Upload \`plugin-name.php\` to the \`/wp-content/plugins/\` directory
+1. Upload \`Subscribe Forms\` to the \`/wp-content/plugins/\` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress.
 3. A menu item entitled “ SM Forms ” will Appear.
 4. Create New Form.  
@@ -63,8 +70,8 @@ For screenshots Please visit <a href='http://web-settler.com/mailchimp-subscribe
 == Changelog ==
 
 = 1.1 =
-* Fixed call to action text edit field for firefox browser.
-* Call to action With and height fix.
+* Fixed call to action text edit fields for firefox browser.
+* Call to action Width and height fix.
 
 == Upgrade Notice ==
 
