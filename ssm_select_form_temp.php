@@ -98,6 +98,11 @@ function ssm_select_form_meta($post){
     font-size: 19px;
 
   }
+  .lck_span{
+    font-size: 9px;
+    color: red;
+    font-style: italic;
+  }
 
 </style>
 <div id='lpp_wrapper' class='formLayout_s_l'>
@@ -112,7 +117,7 @@ function ssm_select_form_meta($post){
             <img src="<?php echo plugins_url('form_img_1.png',__FILE__); ?>" style='width:200px;height:110px;' >
         </label>
 
-        Template -4
+        Template -4<span class='lck_span'>(Locked)</span>
         <input disabled type="radio" id='lpp_select_template4' name='disabled_ssm_select_form_template' value='form_4.php'
         <?php checked( "form_4.php", $ssm_select_form_template); ?>
         >
@@ -120,7 +125,7 @@ function ssm_select_form_meta($post){
             <img src="<?php echo plugins_url('form_img_4.png',__FILE__); ?>" style='width:200px;height:110px;' >
         </label>
 
-        Template -7
+        Template -7<span class='lck_span'>(Locked)</span>
         <input disabled type="radio" id='lpp_select_template7' name='disabled_ssm_select_form_template' value='form_7.php'
         <?php checked( "form_7.php", $ssm_select_form_template); ?>
         >
@@ -133,8 +138,8 @@ function ssm_select_form_meta($post){
         <div id='lpp_right'>
 
 
-        Template -2
-        <input  type="radio" id='lpp_select_template2' name='ssm_select_form_template' value='form_2.php'
+        Template -2<span class='lck_span'>(Locked)</span>
+        <input disabled type="radio" id='lpp_select_template2' name='ssm_select_form_template' value='form_2.php'
         <?php checked( "form_2.php", $ssm_select_form_template); ?>
         >
 
@@ -142,7 +147,7 @@ function ssm_select_form_meta($post){
             <img src="<?php echo plugins_url('form_img_2.png',__FILE__); ?>" style='width:200px;height:110px;' >
         </label>
 
-        Template -5
+        Template -5<span class='lck_span'>(Locked)</span>
         <input disabled type="radio" id='lpp_select_template5' name='disabled_ssm_select_form_template' value='form_5.php'
         <?php checked( "form_5.php", $ssm_select_form_template); ?>
         >
@@ -150,7 +155,7 @@ function ssm_select_form_meta($post){
             <img src="<?php echo plugins_url('form_img_5.png',__FILE__); ?>" style='width:200px;height:110px;' >
         </label>
 
-        Template -8
+        Template -8<span class='lck_span'>(Locked)</span>
         <input disabled type="radio" id='lpp_select_template8' name='disabled_ssm_select_form_template' value='form_8.php'
         <?php checked( "form_8.php", $ssm_select_form_template); ?>
         >
@@ -163,7 +168,7 @@ function ssm_select_form_meta($post){
 
 </div>
 <div id='lpp_row_3'>
-    Template -3
+    Template -3<span class='lck_span'>(Locked)</span>
         <input disabled type="radio" id='lpp_select_template3' name='disabled_ssm_select_form_template' value='form_3.php'
         <?php checked( "form_3.php", $ssm_select_form_template); ?>
         >
@@ -172,7 +177,7 @@ function ssm_select_form_meta($post){
             <img src="<?php echo plugins_url('form_img_3.png',__FILE__); ?>" style='width:200px;height:110px;' >
         </label>
 
-        Template -6
+        Template -6<span class='lck_span'>(Locked)</span>
         <input disabled type="radio" id='lpp_select_template6' name='disabled_ssm_select_form_template' value='form_6.php'
         <?php checked( "form_6.php", $ssm_select_form_template); ?>
         >
