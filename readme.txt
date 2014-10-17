@@ -50,7 +50,8 @@ With our collection of Subscribe Form templates your Forms will look as good as 
 
 Just install use short-code and start using.
 
-> This plugin works great with the <a href='https://wordpress.org/plugins/ultimate-landing-page/' target='_blank' >Ultimate Landing Page</a> Ultimate Landing Page plugin reduces your work and helps you collect emails easily and maximize you conversions.
+> This plugin works great with the <a href='https://wordpress.org/plugins/ultimate-landing-page/' target='_blank' 
+> Ultimate Landing Page</a> Ultimate Landing Page plugin reduces your work and helps you collect emails easily and maximize you conversions.
 
 
 == Screenshots ==
@@ -60,7 +61,7 @@ For screenshots and more info visit <a href='http://web-settler.com/mailchimp-su
 
 
 == Installation ==
-1. Upload \`Subscribe Forms\` to the \`/wp-content/plugins/\` directory
+1. Upload <strong>Subscribe Forms</strong> to the \`/wp-content/plugins/\` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress.
 3. A menu item entitled “ SM Forms ” will Appear.
 4. Create New Form.  
@@ -78,7 +79,7 @@ For screenshots and more info visit <a href='http://web-settler.com/mailchimp-su
 = 1.1 =
 * Fixed call to action text edit field for firefox browser.
 * Call to action With and height fix.
-* Compatible with Wordpress 4.0.
+* Compatible with Wordpress 4.0
 
 
 
