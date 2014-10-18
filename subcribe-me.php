@@ -1,6 +1,6 @@
 <?php 
 /*
-Plugin Name: Mailchimp Subscribe Forms
+Plugin Name: Subscribe Forms
 Author: umarbajwa
 Description: Add Beautiful froms to your website to increase converions
 Plugin URI: http://web-settler.com/mailchimp-subscribe-form/
