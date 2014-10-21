@@ -61,7 +61,7 @@ For screenshots and more info visit <a href='http://web-settler.com/mailchimp-su
 
 
 == Installation ==
-1. Upload <strong>Subscribe Forms</strong> to the \`/wp-content/plugins/\` directory
+1. Upload <strong>Subscribe Forms</strong> to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress.
 3. A menu item entitled “ SM Forms ” will Appear.
 4. Create New Form.  
