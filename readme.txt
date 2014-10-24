@@ -40,7 +40,7 @@ With our collection of Subscribe Form templates your Forms will look as good as 
 * No Powered by or created by message.
 
 
-<a href='http://web-settler.com/mailchimp-subscribe-form/'>—————— (Premium Version Features) ————</a>
+<a href='http://web-settler.com/mailchimp-subscribe-form/'>==Premium Version Features== </a>
 
 * All Templates Unlocked.
 * Responsive Forms.
