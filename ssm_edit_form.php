@@ -47,7 +47,10 @@ function ssm_form_edit_meta($post){
     $smf_mailchimp_method = '<form id= "sm_form" action= "#" method= "get" >';
     $smf_database_method  = '<form id="sm_form" action='.$sm_action_url.' method="post" >';
 
-    include ($ssm_editable.get_post_meta( $post->ID,'ssm_select_form_template',true)); 
+    $ssm_select_form_template_check_empty = get_post_meta( $post->ID,'ssm_select_form_template',true);
+      if (!empty($ssm_select_form_template_check_empty)) {
+          include ($ssm_editable.get_post_meta( $post->ID,'ssm_select_form_template',true)); 
+      }
     ?>
     <br>
     <br>
