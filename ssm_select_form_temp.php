@@ -188,7 +188,7 @@ function ssm_select_form_meta($post){
        
 </div>
     </div>
-<a href="http://web-settler.com/mailchimp-subscribe-form/" target='_blank' style='font-size:24px;'id='pr_msg_link'><i>To Unlock all Templates Click Here</i></a>
+<a href="http://web-settler.com/mailchimp-subscribe-form/" target='_blank' style='font-size:24px;'id='pr_msg_link'><i>Unlock All Templates and get more amazing features Click Here</i></a>
 <div style='width:100%;text-align:center; background:#e3e3e3;height:60px;border-left:5px solid #a7d142;'>
 
  <?php submit_button('Update');?>
