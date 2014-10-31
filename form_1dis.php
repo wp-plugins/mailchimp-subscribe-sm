@@ -19,7 +19,7 @@
 		font-family: helvetica,sans-serif;
 		font-size: 22px;
 		font-weight: bold;
-		padding:10px 0 20px 0;
+		padding:10px 0 20px 2;
 	}
 	#sm_content{
 		background: #fff;

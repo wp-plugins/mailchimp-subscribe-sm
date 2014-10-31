@@ -1,13 +1,13 @@
 === Subscribe Forms ===
 Contributors: umarbajwa,websettler
-Tags: feedburner, feedburner feedback form,subscribe, subscriber, subscriber form,email, mailchimp, marketing, newsletter, plugin, signup, widget,bbPress, buddypress, checkbox, contact form, contact form 7, form, newsletter, shortcode, widget, woocommerce, email, forms, mailchimp, mailing lists, marketing, newsletter, sign up, sign-up form,contact us newsletter form, contacts, contactus.com, ContactUs.com Newsletter Form, feedback, form, lead management, leads, mailchimp, MailChimp form, MailChimp Newsletter form, MailChimp plugin, newsletter, newsletter button, newsletter form, newsletter form plugin, signup, signup form,landing page,pages,twitter,widgets,images,shortcode,post,admin,comments.google,seo,woocommerce
+Tags: feedburner, feedburner feedback form,subscribe, subscriber, subscriber form,email, mailchimp, marketing, newsletter, plugin, signup, widget,bbPress, buddypress, checkbox, contact form, contact form 7, form, newsletter, shortcode, widget, woocommerce, email, forms, mailchimp,mailing lists, marketing, newsletter, sign up, sign-up form,contact us newsletter form, contacts, contactus.com, ContactUs.com Newsletter Form, feedback, form, lead management, leads, mailchimp, MailChimp form, MailChimp Newsletter form, MailChimp plugin, newsletter, newsletter button, newsletter form,newsletter form plugin, signup, signup form,landing page,pages,twitter,widgets,images,shortcode,post,admin,comments.google,seo,woocommerce
 Requires at least: 3.2
 Tested up to: 4.0
 Stable tag: 1.1
 License: GPLv2 or later
 
 
-Create Beautiful Professional looking Subscribe Forms easily in less than 1 minute and increase your conversions/Subscribers more than 300%.
+Create Beautiful Professional looking Subscribe Forms easily in less than 1 minute and increase your conversions/Subscribers more than 300%
 
 
 == Description ==
