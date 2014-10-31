@@ -48,7 +48,7 @@ With our collection of Subscribe Form templates your Forms will look as good as 
 * Change Form styling.
 * Ajax Forms.
 
-Just install use short-code and start using.
+Just install and use short-code.
 
 > This plugin works great with the <a href='https://wordpress.org/plugins/ultimate-landing-page/' target='_blank' 
 > Ultimate Landing Page</a> Ultimate Landing Page plugin reduces your work and helps you collect emails easily and maximize you conversions.
