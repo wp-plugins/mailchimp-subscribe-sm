@@ -1,5 +1,9 @@
 <?php
 
+/*
+* Save data by creating a file 
+*/
+
 $savedata = $_REQUEST['savedata'];
 if ($savedata == 1){ 
 $data = '* Name : '.$_POST['sm_name'];

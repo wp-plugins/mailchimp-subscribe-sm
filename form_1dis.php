@@ -50,7 +50,7 @@
 	.sm_submit{
 		margin: 0;
 		padding: 0;
-		height: 35px;
+		height: 40px;
 		width: 130px;
 		border: none;
 		color: #fff;
@@ -76,7 +76,7 @@
 
 	}
 	#sm_footer p {
-		margin: 0 0 10px 0;
+		margin: 0 0 11px 0;
 	}
 
 
@@ -91,6 +91,7 @@
 	<div id='sm_top'>
 	 <li><?php echo get_post_meta($post->ID,'sm_form_header',true); ?></li>		
 	</div>
+	<div style='display:none;'>This is MailChimp Subscribe Form Plugin</div>
 	<div id='sm_content'>
 		<p><?php echo get_post_meta($post->ID,'sm_form_content',true); ?></p>
 		<form id='sm_form' action="<?php echo plugins_url('/data.php?savedata=1',__FILE__); ?>" method='post'>
