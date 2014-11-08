@@ -68,6 +68,12 @@ function add_ssm_sub_menu_mailchimp(){
 
 
 function add_ssm_subscribers_list_menu(){
+
+/***
+
+	* Page to display and download subscribers list.
+
+***/
 	?>
 	<div style='padding:50px; margin:0 auto; margin-top:50px; background:#6C7A89;color:#fff;font-family:sans-serif,arial;font-size:17px; width:60%;'>
 	<?php
