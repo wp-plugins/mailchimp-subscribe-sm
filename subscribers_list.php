@@ -7,12 +7,7 @@ function ssm_post_subscribers_meta($post){
     global $post;
 
 
- //////////////////////////////////////////////////////////////////////////
-                                                                        //  
-                               //START                                 //
-                                                                      //  
-                                                                     //
-    ///////  MAIN SETTINGS var assign BOX Starts HERE!!! /////////////
+
 
     $ssm_select_form_template = get_post_meta($post->ID,'ssm_select_form_template',true);
 

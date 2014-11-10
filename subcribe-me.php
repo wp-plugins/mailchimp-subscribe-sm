@@ -10,12 +10,12 @@ Donate link: http://web-settler.com/mailchimp-subscribe-form/
 License : GPL V2
 
 
-*************
+*********
 * Copyright: 2014 http://web-settler.com/
 * Note : License Free to use, Free to modify, Permission required to redistribute.
 * Help :URL:http://web-settler.com/contact/
 * Email : umar@web-setter.com
-*************
+********
 */
 
 include 'ssm_cs_post_type.php';
