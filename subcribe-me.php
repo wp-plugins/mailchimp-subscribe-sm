@@ -5,16 +5,16 @@ Author: umarbajwa
 Description: Add Beautiful froms to your website to increase converions
 Plugin URI: http://web-settler.com/mailchimp-subscribe-form/
 Author URI: http://web-settler.com/mailchimp-subscribe-form/
-Version:1.1
+Version: 1.1
 Donate link: http://web-settler.com/mailchimp-subscribe-form/
-License : GPL V2
+License: GPL V2
 
 
 *********
 * Copyright: 2014 http://web-settler.com/
-* Note : License Free to use, Free to modify, Permission required to redistribute.
-* Help :URL:http://web-settler.com/contact/
-* Email : umar@web-setter.com
+* Note: License Free to use, Free to modify, Permission required to redistribute.
+* Help: URL:http://web-settler.com/contact/
+* Email: umar@web-setter.com
 ********
 */
 

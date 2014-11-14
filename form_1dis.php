@@ -107,6 +107,8 @@
 	</div>
 	<div id='sm_footer'>
 		<p style='display:none;'>This is benefit 2</p>
-		<p><?php echo get_post_meta($post->ID,'sm_form_footer_msg',true); ?></p>
+		<p><?php echo get_post_meta($post->ID,'sm_form_footer_msg',true); ?>
+		<?php echo get_post_meta($post->ID,'sm_form_cta_text',true); ?>
+	</p>
 	</div>
 </div>
