@@ -101,7 +101,9 @@
 			<p>
 				<input type='text' id='sm_input' class='sm_field' name='sm_name' placeholder='Nmae ' required >
 				<input type='email' id='sm_input' class='sm_field' name='sm_email' placeholder='Email ' required >
-				<button type='submit' id='sm_submit' class='sm_submit'><?php echo get_post_meta($post->ID,'sm_form_cta_text',true); ?></button> 
+				<button type='submit' id='sm_submit' class='sm_submit'><?php echo get_post_meta($post->ID,'sm_form_cta_text',true); ?></button>
+
+				<button style='display:none;' type='submit' id='sm_submit' class='sm_submit'><?php echo get_post_meta($post->ID,'sm_form_cta_text',true); ?></button> 
 
 			</p>
 		</form>
