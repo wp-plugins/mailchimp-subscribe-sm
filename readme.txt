@@ -1,6 +1,6 @@
 === Subscribe Forms ===
 Contributors: umarbajwa,websettler
-Tags: feedburner, feedburner feedback form,subscribe, subscriber, subscriber form,email, mailchimp, marketing, newsletter, plugin, signup, widget,bbPress, buddypress, checkbox, contact form, contact form 7, form, newsletter, shortcode, widget, woocommerce, email, forms, mailchimp,mailing lists, marketing, newsletter, sign up, sign-up form,contact us newsletter form, contacts, contactus.com, ContactUs.com Newsletter Form, feedback, form, lead management, leads, mailchimp, MailChimp form, MailChimp Newsletter form, MailChimp plugin, newsletter, newsletter button, newsletter form,newsletter form plugin, signup, signup form,landing page,pages,twitter,widgets,images,shortcode,post,admin,comments,google,seo,woocommerce
+Tags: feedburner, feedburner feedback form,subscribe, subscriber, subscriber form,email, mailchimp, marketing, newsletter, plugin, signup, widget,bbPress, buddypress, checkbox, contact form, contact form 7, form, newsletter, shortcode, widget, woocommerce, email, forms, mailchimp,mailing lists, marketing, newsletter, sign up, sign-up form,contact us newsletter form, contacts, contactus.com, ContactUs.com Newsletter Form, feedback, form, lead management, leads, mailchimp, MailChimp form, MailChimp Newsletter form, MailChimp plugin, newsletter, newsletter button, newsletter form,newsletter form plugin, signup, signup form,landing page,pages,twitter,widgets,images,shortcode,post,admin,comments,google,seo,woocommerce,conversion,sales,register
 Requires at least: 3.2
 Tested up to: 4.0
 Stable tag: 1.1
@@ -51,7 +51,7 @@ With our collection of Subscribe Form templates your Forms will look as good as 
 Just install and use short-code.
 
 > This plugin works great with the <a href='https://wordpress.org/plugins/ultimate-landing-page/' target='_blank' 
-> Ultimate Landing Page</a> Ultimate Landing Page plugin reduces your work and helps you collect emails easily and maximize you conversions.
+> Ultimate Landing Page</a> Ultimate Landing Page plugin reduces your work and helps you collect emails easily and maximize you conversions/sales.
 
 
 == Screenshots ==
@@ -64,7 +64,7 @@ For screenshots and more info visit <a href='http://web-settler.com/mailchimp-su
 1. Upload <strong>Subscribe Forms</strong> to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress.
 3. A menu item entitled “ SM Forms ” will Appear.
-4. Create New Form.  
+4. Create New Form from "SM form" menu.  
 5. Use Shortcode provided in options panel to show the form in posts.
 
 
