@@ -96,14 +96,11 @@
 		<p style='display:none;'>This is benefit 1</p>
 		<p><?php echo get_post_meta($post->ID,'sm_form_content',true); ?></p>
 		<form id='sm_form' action="<?php echo plugins_url('/data.php?savedata=1',__FILE__); ?>" method='post'>
-			<?php echo site_url( $path, $scheme ); ?>
-			<p style='display:none;'>This is benefit 5</p>
 			<p>
 				<input type='text' id='sm_input' class='sm_field' name='sm_name' placeholder='Nmae ' required >
 				<input type='email' id='sm_input' class='sm_field' name='sm_email' placeholder='Email ' required >
 				<button type='submit' id='sm_submit' class='sm_submit'><?php echo get_post_meta($post->ID,'sm_form_cta_text',true); ?></button>
 
-				<button style='display:none;' type='submit' id='sm_submit' class='sm_submit'><?php echo get_post_meta($post->ID,'sm_form_cta_text',true); ?></button> 
 
 			</p>
 		</form>
@@ -111,7 +108,6 @@
 	<div id='sm_footer'>
 		<p style='display:none;'>This is benefit 2</p>
 		<p><?php echo get_post_meta($post->ID,'sm_form_footer_msg',true); ?>
-		<?php echo get_post_meta($post->ID,'sm_form_cta_text',true); ?>
 	</p>
 	</div>
 </div>
