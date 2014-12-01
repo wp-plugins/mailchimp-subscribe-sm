@@ -17,10 +17,10 @@ function ssm_reating_meta($post){
 	}
 	#rate_button:active{
 		border: none;
-		padding-top: 9%;
+		padding-top: 11%;
 	}
 	li{
-		line-height: 2;
+		line-height: 2.5;
 	}
 
 </style>
@@ -32,6 +32,9 @@ function ssm_reating_meta($post){
 </li>
 <li>
 	In return You will recieve an email containing premium version of this plugin.
+</li>
+<li>
+	Enjoy!
 </li>
 <a href='https://wordpress.org/support/view/plugin-reviews/mailchimp-subscribe-sm#postform' style='text-decoration: none;' href="#" target='_blank'><div id='rate_button' style=''>Rate Now</div></a>
 

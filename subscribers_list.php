@@ -13,6 +13,7 @@ function ssm_post_subscribers_meta($post){
 
     
     wp_nonce_field( 'my_meta_box_nonce', 'meta_box_nonce' );
+    // Download link
     ?>
 
     <a href="<?php echo plugins_url('/subscriber-list-download.php',__FILE__); ?>">DOWNLOAD LIST</a>
