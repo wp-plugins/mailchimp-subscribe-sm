@@ -16,7 +16,6 @@
 		padding: 1px 0 1px 0;
 	}
 	#sm_top li{
-		list-style: url(email-icon.png);
 		margin-left: 5%;
 		font-family: helvetica,sans-serif;
 		font-size: 25px;
