@@ -14,6 +14,7 @@ License: GPL V2
 * Copyright: 2014 http://web-settler.com/
 * Note: License Free to use, Free to modify, Permission required to redistribute.
 * Help: URL:http://web-settler.com/contact/
+* Support: http://web-settler.com/ulp-support/
 * Email: umar@web-setter.com
 ********
 */
