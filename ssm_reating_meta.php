@@ -24,18 +24,7 @@ function ssm_reating_meta($post){
 	}
 
 </style>
-<li>
-	Give us Five Star Rating 
-</li>
-<li>
-	Mention Your Name in review.
-</li>
-<li>
-	In return You will recieve an email containing premium version of this plugin.
-</li>
-<li>
-	Enjoy!
-</li>
+
 <a href='https://wordpress.org/support/view/plugin-reviews/mailchimp-subscribe-sm#postform' style='text-decoration: none;' href="#" target='_blank'><div id='rate_button' style=''>Rate Now</div></a>
 
 
