@@ -21,7 +21,7 @@ function ssm_mailchimp_meta($post){
     
     wp_nonce_field( 'my_meta_box_nonce', 'meta_box_nonce' );
 
-    echo "<h1>Hello MailChimp</h1>";
+    echo "<h1>MailChimp Connect</h1>";
     ?>
     <p><input type='text' name='ssm_mailchimp_api_key' value='<?php echo get_option('ssm_mailchimp_api_key'); ?> '>
     <input type='text' name='ssm_mailchimp_list_id' value='<?php echo get_option('ssm_mailchimp_list_id'); ?>'>
