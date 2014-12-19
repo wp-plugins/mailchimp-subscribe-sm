@@ -145,8 +145,6 @@
 			</p>
 			<input style='display:none;' type='email' id='sm_name' class='sm_field' name='sm_name' placeholder='Email' required >
 		</form>
-		<span id="response">
-			<?php require_once('inc/store-address.php'); if($_GET['submit']){ echo storeAddress(); } ?>
-    	</span>
+		
 	</div>
 </div>
