@@ -17,10 +17,10 @@ function ssm_reating_meta($post){
 	}
 	#rate_button:active{
 		border: none;
-		padding-top: 11%;
+		padding-top: 10%;
 	}
 	li{
-		line-height: 2.5;
+		line-height: 2.0;
 	}
 
 </style>
