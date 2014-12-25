@@ -54,6 +54,10 @@ Just install and use short-code.
 > Ultimate Landing Page</a> Ultimate Landing Page plugin reduces your work and helps you collect emails easily and maximize you conversions/sales.
 
 
+
+Note: This is free version some features may be not available.
+
+
 == Screenshots ==
 For screenshots and more info visit <a href='http://web-settler.com/mailchimp-subscribe-form/'>Screenshots</a>
 
