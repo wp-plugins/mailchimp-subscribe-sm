@@ -55,9 +55,6 @@ Just install and use short-code.
 
 
 
-Note: This is free version some features may be not available.
-
-
 == Screenshots ==
 For screenshots and more info visit <a href='http://web-settler.com/mailchimp-subscribe-form/'>Screenshots</a>
 
