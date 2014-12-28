@@ -1,5 +1,5 @@
 <?php
-
+// Adding scripts
 function smf_admin_scripts_add() {
 	wp_enqueue_script('jquery');
 	$screen = get_current_screen();
