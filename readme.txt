@@ -75,12 +75,7 @@ For screenshots and more info visit <a href='http://web-settler.com/mailchimp-su
 * Fixed call to action text edit fields for firefox browser.
 * Call to action Width and height fix.
 
-== Upgrade Notice ==
 
-= 1.1 =
-* Fixed call to action text edit field for firefox browser.
-* Call to action With and height fix.
-* Compatible with Wordpress 4.0
 
 
 
