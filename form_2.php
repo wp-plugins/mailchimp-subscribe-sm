@@ -45,7 +45,7 @@
 	}
 	#sm_form_wrapper{
 		background: #e3e3e3;
-		padding: 01% 0 01% 0;
+		padding: 1% 0 1% 0;
 		border-top: 1px solid #d0d0d0;
 	}
 
@@ -55,7 +55,7 @@
 		padding: 0 !important;
 		width: 60%;
 		height: 35px;
-		margin-left: 7%;
+		margin-left: 6%;
 		margin-bottom: 1%;
 		font-size: 16px;
 	}
@@ -146,6 +146,5 @@
 			</p>
 			<p style='font-size:22px;'><?php echo get_post_meta($post->ID,'sm_form_header',true); ?></p>
 		</form>
-		<p style='font-size:22px;'><?php echo get_post_meta($post->ID,'sm_form_header',true); ?></p>
 	</div>
 </div>
