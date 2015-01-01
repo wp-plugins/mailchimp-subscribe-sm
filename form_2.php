@@ -144,7 +144,6 @@
 				 <input type='email' id='sm_email' class='sm_field' name='sm_email' placeholder='Email' required >
 
 			</p>
-			<p style='font-size:22px;'><?php echo get_post_meta($post->ID,'sm_form_header',true); ?></p>
 		</form>
 	</div>
 </div>
