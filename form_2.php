@@ -40,7 +40,7 @@
 		font-size: 16px;
 		font-family: helvetica,sans-serif;
 		padding: 15px 5px 10px 5%;
-		line-height: 1.8;
+		line-height: 1.6;
 
 	}
 	#sm_form_wrapper{
@@ -119,7 +119,7 @@
 	}
 	#response{
 		font-family: helvetica,sans-serif;
-		font-style: italic;
+		font-style: italic !important;
 		color: #E86850;
 	}
 
