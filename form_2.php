@@ -141,7 +141,6 @@
 			<input style='display:none;' type='email' id='sm_name' class='sm_field' name='sm_name' placeholder='Email' required >
 				 <input type="submit"  name="submit" value="<?php echo get_post_meta($post->ID,'sm_form_cta_text',true); ?>" class="sm_submit" id='sm_submit' />
 				 <input type='email' id='sm_email' class='sm_field' name='sm_email' placeholder='Email' required >
-				 <input type='email' id='sm_email' class='sm_field' name='sm_email' placeholder='Email' required >
 
 			</p>
 		</form>
