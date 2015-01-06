@@ -35,7 +35,7 @@ With our collection of Subscribe Form templates your Forms will look as good as 
 * Shortcode Supported.
 * Shortcode can be used in widgets.
 * Form data can also be saved in database.
-* Download form data in form of .csv file.
+* Download form data as <strong>.csv</strong> file.
 * No coding skills required.
 * No Powered by or created by message.
 
