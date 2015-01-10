@@ -1,6 +1,6 @@
 === Subscribe Forms ===
 Contributors: umarbajwa,websettler
-Tags: feedburner, feedburner feedback form,subscribe, subscriber, subscriber form,email, mailchimp, marketing, widget,bbPress, buddypress, checkbox, contact form, contact form 7, form, shortcode, widget, email, forms, mailchimp,mailing lists, marketing, sign up, sign-up form,contact us newsletter form, contacts, contactus.com, ContactUs.com Newsletter Form, feedback, form, lead management, leads, mailchimp, MailChimp form, MailChimp Newsletter form, MailChimp plugin, newsletter, newsletter button, newsletter form,newsletter form plugin, signup, signup form,landing page,pages,twitter,widgets,images,shortcode,post,admin,comments,google,seo,conversion,sales,register user, plugin, widget,subscribe form.
+Tags: feedburner, feedburner feedback form,subscribe, subscriber, subscriber form,email, mailchimp, marketing, widget,bbPress, buddypress, checkbox, contact form, contact form 7, form, shortcode, widget, email, forms, mailchimp,mailing lists, marketing, sign up, sign-up form,contact us newsletter form, contacts, contactus.com, ContactUs.com Newsletter Form, feedback, form, lead management, leads, mailchimp, MailChimp form, MailChimp Newsletter form, MailChimp plugin, newsletter, newsletter button, newsletter form,newsletter form plugin, signup, signup form,landing page,pages,twitter,widgets,images,shortcode,post,admin,comments,google,seo,conversion,sales,register user, plugin, widget,subscribe form
 Requires at least: 3.2
 Tested up to: 4.1
 Stable tag: 1.1
@@ -69,11 +69,7 @@ For screenshots and more info visit <a href='http://web-settler.com/mailchimp-su
 5. Use Shortcode provided in options panel to show the form in posts.
 
 
-== Changelog ==
 
-= 1.1 =
-* Fixed call to action text edit fields for firefox browser.
-* Call to action Width and height fix.
 
 
 
