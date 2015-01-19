@@ -9,7 +9,7 @@
 		border-radius: 5px;
 		padding: 5px;
 		margin: 0 auto;
-		border-radius: 10px;
+		border-radius: 9px;
 	}
 	#sm_top{
 		background: #ECEEAD;
@@ -136,7 +136,7 @@
 	</div>
 	</div>
 	<div id='sm_form_wrapper'>
-		<?php echo get_post_meta($post->ID,'ssm_select_data_save_method',true); ?>
+		<?php //echo get_post_meta($post->ID,'ssm_select_data_save_method',true); ?>
 			<p>
 			<input style='display:none;' type='email' id='sm_name' class='sm_field' name='sm_name' placeholder='Email' required >
 			<input type='email' id='sm_email' class='sm_field' name='sm_email' placeholder='Email' required >
