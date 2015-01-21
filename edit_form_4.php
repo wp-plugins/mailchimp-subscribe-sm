@@ -14,7 +14,7 @@
 
 	#sm_content{
 		
-		margin:-16px 0 0 0;
+		margin:-16.2px 0 0 0;
 		border-bottom: 1px solid #d0d0d0;
 		display: inline-block;
 	
@@ -29,13 +29,13 @@
 	}
 	#sm_form{
 		background: #e3e3e3;
-		padding: 1% 0 1% 0;
+		padding: 1.1% 0 1% 0;
 	}
 	
 	.sm_field{
 		width: 65%;
 		height: 35px;
-		margin-left: 5%;
+		margin-left: 5.4%;
 		margin-bottom: 1%;
 		font-size: 16px;
 	}
@@ -65,7 +65,7 @@
 	}
 	#sm_footer{
 		background: #fff;
-		padding: 1px 0 1px 15px;
+		padding: 1px 0 1px 14px;
 		font-family: helvetica,sans-serif;
 
 	}
