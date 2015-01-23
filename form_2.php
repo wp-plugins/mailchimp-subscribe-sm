@@ -4,7 +4,7 @@
 	#sm_wrapper{
 		background: #fff;
 		border: 1px solid #d0d0d0;
-		width:85%;
+		width:85.2%;
 		min-width: 230px;
 		border-radius: 5px;
 		padding: 5px;
@@ -96,7 +96,7 @@
 		border: none !important;
 		color: #fff !important;
 		font-size: 17px !important;
-		margin-left: -2.2% !important;
+		margin-left: -2% !important;
 
 		background-color: #7abcff !important;
 		
