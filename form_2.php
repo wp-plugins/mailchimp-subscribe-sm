@@ -9,7 +9,7 @@
 		border-radius: 5px;
 		padding: 5px;
 		margin: 0 auto;
-		border-radius: 9px;
+		border-radius: 9.1px;
 	}
 	#sm_top{
 		background: #ECEEAD;

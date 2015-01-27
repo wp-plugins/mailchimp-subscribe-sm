@@ -1,7 +1,7 @@
 <?php
 
 /*
-* Save subscribers data by creating a file 
+* Save subscribers data by creating a file.
 */
 
 $savedata = $_REQUEST['savedata'];
