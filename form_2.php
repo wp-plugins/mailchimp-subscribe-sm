@@ -18,7 +18,7 @@
 	#sm_top li{
 		margin-left: 5%;
 		font-family: helvetica,sans-serif;
-		font-size: 25px;
+		font-size: 23px;
 		font-weight: bold;
 		padding:10px 0 10px 0;
 	}
@@ -113,7 +113,7 @@
 	
 	#sm_footer{
 		background: #fff;
-		padding: 1px 0 1px 15px;
+		padding: 1.1px 0 1px 15px;
 		font-family: helvetica,sans-serif;
 
 	}
