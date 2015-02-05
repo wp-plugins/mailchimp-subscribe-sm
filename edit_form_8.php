@@ -12,7 +12,7 @@
 	.sm_field{
 		  height: 2.55em;
 		  width:70%;
-		  font-size: 1.6em;
+		  font-size: 1.2em;
 		  text-align:center;
 		  border: 0;
 		  outline: 0;
