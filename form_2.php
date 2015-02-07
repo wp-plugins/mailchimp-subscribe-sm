@@ -4,7 +4,7 @@
 	#sm_wrapper{
 		background: #fff;
 		border: 1px solid #d0d0d0;
-		width:85.2%;
+		width:85%;
 		min-width: 230px;
 		border-radius: 5px;
 		padding: 5px;
@@ -140,7 +140,6 @@
 			<p>
 			<input style='display:none;' type='text' id='sm_name' class='sm_field' name='sm_name' placeholder='Name' required >
 			<input style='display:none;' type='email' id='sm_name' class='sm_field' name='sm_name' placeholder='Email' required >
-			<input type='email' id='sm_email' class='sm_field' name='sm_email' placeholder='Email' required >
 				 <input type="submit"  name="submit" value="<?php echo get_post_meta($post->ID,'sm_form_cta_text',true); ?>" class="sm_submit" id='sm_submit' />
 				 
 
