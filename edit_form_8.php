@@ -81,10 +81,10 @@
 	<div id='smf_form'>
 		<form>
 			<div class="sm_name_div">
-				<input disabled type='text' id='sm_input' class='sm_field' name='sm_name' placeholder='NAME' required >
+				<input disabled type='text' id='sm_input' class='sm_field' name='sm_name' placeholder='NAME'  >
 			</div>
 			<div class="sm_email_div">
-				<input disabled type='email' id='sm_input' class='sm_field' name='sm_email' placeholder='EMAIL' required >
+				<input disabled type='email' id='sm_input' class='sm_field' name='sm_email' placeholder='EMAIL'  >
 			</div>
 				<div disabled  type='submit' id='sm_submit' class='sm_submit'>
 					<input type='text' name='sm_form_cta_text' value='<?php echo $sm_form_cta_text; ?>' placeholder='CTA Text' class='sm_input_field' style='width:75%; height:50px;font-size:22px; text-align: center;' >
