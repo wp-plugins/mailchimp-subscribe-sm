@@ -4,9 +4,9 @@ function ssm_color_settings_meta($post){
 	//
 	//  Background Colors 
 	//
-	$smf_form_bg = get_post_meta($post->ID,'smf_form_bg',true); //Section -1
-	$smf_cta_bg = get_post_meta($post->ID,'smf_cta_bg',true); //Section --2
-	$smf_content_c = get_post_meta($post->ID,'smf_content_c',true); //Section -3
+	$smf_form_bg = get_post_meta($post->ID,'smf_form_bg',true); 
+	$smf_cta_bg = get_post_meta($post->ID,'smf_cta_bg',true); 
+	$smf_content_c = get_post_meta($post->ID,'smf_content_c',true);
 	$smf_cta_c = get_post_meta($post->ID,'smf_cta_c',true); 
 
 
