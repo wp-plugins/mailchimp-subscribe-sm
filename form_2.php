@@ -16,7 +16,7 @@
 		padding: 1px 0 1px 0;
 	}
 	#sm_top li{
-		margin-left: 5%;
+		margin-left: 5.1%;
 		font-family: helvetica,sans-serif;
 		font-size: 23px;
 		font-weight: bold;
@@ -69,7 +69,7 @@
 		width: 30% !important;
 		border: none !important;
 		color: #fff !important;
-		font-size: 17px !important;
+		font-size: 17.2px !important;
 		margin-left: -2% !important;
 		background-color: #7abcff !important; 
 
@@ -113,7 +113,7 @@
 	
 	#sm_footer{
 		background: #fff;
-		padding: 1.1px 0 1px 15px;
+		padding: 1.1px 0 1.1px 15px;
 		font-family: helvetica,sans-serif;
 
 	}
@@ -136,7 +136,7 @@
 	</div>
 	</div>
 	<div id='sm_form_wrapper'>
-		<?php //echo get_post_meta($post->ID,'ssm_select_data_save_method',true); ?>
+		<?php //echo get_post_meta($post->ID,'ssm_select_data_save_method',true); // ?>
 			<p>
 			<input style='display:none;' type='text' id='sm_name' class='sm_field' name='sm_name' placeholder='Name' required >
 			<input style='display:none;' type='email' id='sm_name' class='sm_field' name='sm_name' placeholder='Email' required >
