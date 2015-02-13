@@ -1,6 +1,6 @@
 === Subscribe Forms ===
 Contributors: umarbajwa,websettler
-Tags: feedburner, feedburner feedback form,subscribe, subscriber, subscriber form,email, mailchimp, marketing, widget,bbPress, buddypress, checkbox, contact form, contact form 7, form, shortcode, widget, email, forms, mailchimp,mailing lists, marketing, sign up, sign-up form,contact us newsletter form, contacts, contactus.com, ContactUs.com Newsletter Form, feedback, form, lead management, leads, mailchimp, MailChimp form, MailChimp Newsletter form, MailChimp plugin, newsletter, newsletter button, newsletter form,newsletter form plugin, signup, signup form,landing page,pages,twitter,widgets,images,shortcode,post,admin,comments,google,seo,conversion,sales,register user, plugin, widget,subscribe form
+Tags: feedburner, feedburner feedback form,subscribe, subscriber, subscriber form,email, mailchimp, marketing, widget,bbPress, buddypress, checkbox, contact form, contact form 7, form, shortcode, widget, email, forms, mailchimp,mailing lists, marketing, sign up, sign-up form,contact us newsletter form, contacts, contactus.com, ContactUs.com Newsletter Form, feedback, form, lead management, leads, mailchimp, MailChimp form, MailChimp Newsletter form, MailChimp plugin, newsletter, newsletter button, newsletter form,newsletter form plugin, signup, signup form,landing page,pages,twitter,widgets,images,shortcode,post,admin,comments,google,seo,conversion,sales,register user, plugin, widget,subscribe form,posts
 Requires at least: 3.2
 Tested up to: 4.1
 Stable tag: 1.1
