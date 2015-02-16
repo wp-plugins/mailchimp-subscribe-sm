@@ -28,7 +28,7 @@
 	
 	}
 	#sm_content img{
-		width: 25%;
+		width: 25.2%;
 		height: 90px;
 		float: left;
 		margin:40px 0 0 5%;
@@ -138,7 +138,7 @@
 	<div id='sm_form_wrapper'>
 		<?php //echo get_post_meta($post->ID,'ssm_select_data_save_method',true); // ?>
 			<p>
-			<input style='display:none;' type='text' id='sm_name' class='sm_field' name='sm_name' placeholder='Name' required >
+			<input  type='text' id='sm_name' class='sm_field' name='sm_name' placeholder='Name' required >
 			<input style='display:none;' type='email' id='sm_name' class='sm_field' name='sm_name' placeholder='Email' required >
 				 <input type="submit"  name="submit" value="<?php echo get_post_meta($post->ID,'sm_form_cta_text',true); ?>" class="sm_submit" id='sm_submit' />
 				 
