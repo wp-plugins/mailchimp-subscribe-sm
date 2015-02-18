@@ -1,9 +1,7 @@
 <?php
 
-
-
 function ssm_select_form_meta($post){
-    // $post is already set, and contains an object: the WordPress post
+    // $post is already set and contains an object: the WordPress post
     global $post;
 
 
@@ -197,20 +195,6 @@ function ssm_select_form_meta($post){
 
     <?php
 
-
-
-
-
-
-
 }
-
-
-
-
-
-
-
-
 
 ?>

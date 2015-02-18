@@ -20,12 +20,12 @@ function ssm_reating_meta($post){
 		padding-top: 10%;
 	}
 	li{
-		line-height: 2.0;
+		line-height: 2.2;
 	}
 
 </style>
 <li>Please rate this plugin.</li>
-<a href='https://wordpress.org/support/view/plugin-reviews/mailchimp-subscribe-sm#postform' style='text-decoration: none;' href="#" target='_blank'><div id='rate_button' style=''>Rate Now</div></a>
+<a style="dispay:hidden;"  href='https://wordpress.org/support/view/plugin-reviews/mailchimp-subscribe-sm#postform' style='text-decoration: none;' href="#" target='_blank'><div id='rate_button' style=''>Rate Now</div></a>
 
 
 <?php
