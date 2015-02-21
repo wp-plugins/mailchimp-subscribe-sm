@@ -4,7 +4,7 @@
 		background: #e3e3e3;
 	}
 	#top_border{
-		width:91%;
+		width:90%;
 		margin: 0 auto;
 		height: 5px;
 		background: -webkit-linear-gradient(left, #27ae60 0%, #27ae60 20%, #8e44ad 20%, #8e44ad 40%, #3498db 40%, #3498db 60%, #e74c3c 60%, #e74c3c 80%, #f1c40f 80%, #f1c40f 100%);
