@@ -2,7 +2,7 @@
 
 
 	#sm_wrapper{
-		width:45%;
+		width:45.2%;
 		min-width: 230px;
 		border-radius: 5px;
 		margin: 0 auto;
@@ -49,7 +49,7 @@
 	}
 	.sm_name_div{
 		background:#4daf7c;
-		padding:30px 0 30px 0;
+		padding:30.3px 0 30px 0;
 		text-align: center;
 	}
 
@@ -80,6 +80,9 @@
 <div id='sm_wrapper'>
 	<div id='smf_form'>
 		<form>
+		<div   type='submit' id='sm_submit' class='sm_submit'>
+					<input type='text' name='sm_form_cta_text' value='<?php echo $sm_form_cta_text; ?>' placeholder='CTA Text' class='sm_input_field' style='width:75%; height:50px;font-size:22px; text-align: center;' >
+				</div> 
 			<div class="sm_name_div">
 				<input disabled type='text' id='sm_input' class='sm_field' name='sm_name' placeholder='NAME'  >
 			</div>
