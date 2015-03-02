@@ -142,7 +142,6 @@
 			<input style='display:none;' type='email' id='sm_name' class='sm_field' name='sm_name' placeholder='Email' required >
 				 <input type="submit"  name="submit" value="<?php echo get_post_meta($post->ID,'sm_form_cta_text',true); ?>" class="sm_submit" id='sm_submit' />
 				 
-<?php echo get_post_meta($post->ID,'ssm_select_data_save_method',true); // ?>
 			</p>
 		</form>
 	</div>
