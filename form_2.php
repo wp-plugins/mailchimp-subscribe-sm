@@ -96,7 +96,7 @@
 		border: none !important;
 		color: #fff !important;
 		font-size: 17px !important;
-		margin-left: -2% !important;
+		margin-left: -2.2% !important;
 
 		background-color: #7abcff !important;
 		
