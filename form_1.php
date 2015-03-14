@@ -131,7 +131,7 @@
 		<p><?php echo get_post_meta($post->ID,'sm_form_content',true); ?></p>
 		<?php echo get_post_meta($post->ID,'ssm_select_data_save_method',true); ?>
 
-			  <input type='email'  class='sm_field' name="sm_email" id="sm_email" placeholder='Enter Your Email Address...' required >
+			  <input type='email'  class='sm_field' name="sm_email" id="sm_email" placeholder='Enter Your Email' required >
 			  <input type="submit"  name="submit" value="<?php echo get_post_meta($post->ID,'sm_form_cta_text',true); ?>" class="sm_submit" id='sm_submit' />
 			
 			  
