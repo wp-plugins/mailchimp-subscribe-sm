@@ -129,7 +129,7 @@
 
 <div id='sm_wrapper'>
 	<div id='sm_content'>
-		<img style='display:none;'  src='<?php //echo plugins_url("mail.png",__FILE__); ?>'>
+		<img style='display:none;'  src='<?php echo plugins_url("mail.png",__FILE__); ?>'>
 	<div id='smtext'> 
 		<p style='font-size:22px;'><?php echo get_post_meta($post->ID,'sm_form_header',true); ?></p>
 		<p><?php echo get_post_meta($post->ID,'sm_form_content',true); ?></p>
@@ -139,7 +139,7 @@
 		<?php echo get_post_meta($post->ID,'ssm_select_data_save_method',true); ?>
 			<p>
 			<input style='display:none;' type='email' id='sm_name' class='sm_field' name='sm_name' placeholder='Email' required >
-			 <input type="submit"  name="submit" value="<?php echo get_post_meta($post->ID,'sm_form_cta_text',true); ?>" class="sm_submit" id='sm_submit' />
+			 <input type="submit"  name="submit" value="Subscribe" class="sm_submit" id='sm_submit' />
 				 
 			</p>
 		</form>
