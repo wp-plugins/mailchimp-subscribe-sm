@@ -23,6 +23,6 @@ h2{
 
 <div class='wrapper'>
 	<div id='msg'>
-		<h2>You have reached maximum number of Forms To get more Forms visit : <a href="http://web-settler.com/mailchimp-subscribe-form">Premium Version</a></h2>
+		<h2>You have reached maximum amount of Forms to get unlimited Forms visit : <a href="http://web-settler.com/mailchimp-subscribe-form">Premium Version</a></h2>
 	</div>
 </div>
