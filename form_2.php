@@ -140,6 +140,10 @@
 			<p>
 			<input style='display:none;' type='email' id='sm_name' class='sm_field' name='sm_name' placeholder='Email' required >
 			 <input type="submit"  name="submit" value="Subscribe" class="sm_submit" id='sm_submit' />
+
+			 <span id="response">
+			  <? require_once('inc/store-address.php'); if($_GET['submit']){ echo storeAddress(); } ?>
+				  </span>
 				 
 			</p>
 		</form>
