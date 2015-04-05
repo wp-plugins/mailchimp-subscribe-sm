@@ -49,7 +49,7 @@
 	}
 	.sm_name_div{
 		background:#4daf7c;
-		padding:30.3px 0 30px 0;
+		padding:30px 0 30px 0;
 		text-align: center;
 	}
 

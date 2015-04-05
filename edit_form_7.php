@@ -53,7 +53,7 @@
 	.sm_submit{
 		margin-left: 5%;
 		height: 35px;
-		width: 20%;
+		width: 20.2%;
 		border: none;
 		margin-left: -5%;
 		color: #fff;
