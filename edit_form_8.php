@@ -1,5 +1,5 @@
 <style type="text/css">
-
+@import url(http://fonts.googleapis.com/css?family=Oswald);
 
 	#sm_wrapper{
 		width:45%;
@@ -7,7 +7,7 @@
 		border-radius: 5px;
 		margin: 0 auto;
 	}
-	@import url(http://fonts.googleapis.com/css?family=Oswald);
+	
 	
 	.sm_field{
 		  height: 2.55em;
