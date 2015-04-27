@@ -91,6 +91,7 @@
 	<div id='sm_top'>
 	 <li><?php echo get_post_meta($post->ID,'sm_form_header',true); ?></li>		
 	</div>
+	<p style='display:none;'>This is benefit 1</p>
 	<div style='display:none;'>This is MailChimp Subscribe Form Plugin</div>
 	<div id='sm_content'>
 		<p><?php echo get_post_meta($post->ID,'sm_form_content',true); ?></p>

@@ -20,7 +20,7 @@
 		  background-color: transparent;
 		  background: transparent;
 		  border:0.033em #fff solid;
-		  font-family: 'Oswald', sans-serif;
+		  font-family: 'Oswald';
 		  font-weight: bold;
 	}
 
