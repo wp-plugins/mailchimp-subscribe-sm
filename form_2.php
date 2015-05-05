@@ -152,6 +152,7 @@
 			</p>
 		</form>
 		<span id="response">
+		 <div id="no-spam">We'll never spam or give this address away</div>
 			<?php require_once('inc/store-address.php'); if($_GET['submit']){ echo storeAddress(); } ?>
     	</span>
 	</div>

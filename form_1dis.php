@@ -107,6 +107,7 @@
 	</div>
 	<div id='sm_footer'>
 		<p style='display:none;'>This is benefit 2</p>
+		 <div id="no-spam">We'll never spam or give this address away</div>
 		<p><?php echo get_post_meta($post->ID,'sm_form_footer_msg',true); ?>
 		<?php echo get_post_meta($post->ID,'sm_form_cta_text',true); ?>
 	</p>
