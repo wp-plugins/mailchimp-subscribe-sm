@@ -18,7 +18,7 @@
 	#sm_top li{
 		list-style: url(email-icon.png);
 		margin-left: 5%;
-		font-family: helvetica,sans-serif;
+		font-family: sans-serif;
 		font-size: 25px;
 		font-weight: bold;
 		padding:10px 0 10px 0;
@@ -122,7 +122,7 @@
 	#sm_footer{
 		background: #fff;
 		padding: 1px 0 1px 15px;
-		font-family: helvetica,sans-serif;
+		font-family: sans-serif;
 
 	}
 	#response{
