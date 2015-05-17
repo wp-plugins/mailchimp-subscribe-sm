@@ -79,6 +79,11 @@ function add_ssm_subscribers_list_menu(){
 
 	 ?>
 </div>
+<br>
+<br>
+  <a style='background:#F27935; color:#fff; text-decoration:none;padding:15px;' href="<?php echo plugins_url('/subscriber-list-download.php',__FILE__); ?>">DOWNLOAD LIST</a>
+  <br>
+  <br>
   <br>
   <br>
   <a style='background:#F27935; color:#fff; text-decoration:none;padding:15px;' href="<?php echo plugins_url('/subscriber-list-empty.php',__FILE__); ?>">EMPTY LIST</a>

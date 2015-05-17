@@ -20,12 +20,12 @@ function ssm_reating_meta($post){
 		padding-top: 9%;
 	}
 	li{
-		line-height: 1.5;
+		line-height: 2;
 	}
 
 </style>
 <li>
-	Please rate this plugin Five Star 
+	Give us Five Star Rating 
 </li>
 <li>
 	Mention Your Name in review.
