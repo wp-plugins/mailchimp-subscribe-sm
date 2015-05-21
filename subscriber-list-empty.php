@@ -5,7 +5,7 @@ if ($f !== false) {
     ftruncate($f, 0);
     fclose($f);
 
-    echo 'Success!';
+    echo 'All data had been cleared!';
 }
 
 else{
