@@ -98,7 +98,7 @@
 		</p>
 		<form id='sm_form'>
 			<p>
-				<input disabled type='email' id='sm_input' class='sm_field' name='smf_email' placeholder='Enter Your Email Address...' required >
+				<input disabled type='email' id='sm_input' class='sm_field' name='smf_email' placeholder='Email Address' required >
 					<input type='text' name='sm_form_cta_text' value='<?php echo $sm_form_cta_text; ?>' placeholder='CTA Text' class='sm_input_field' style='width:20%; height:35px;' >
 
 			</p>
