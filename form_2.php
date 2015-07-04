@@ -137,10 +137,8 @@
 
 <div id='sm_wrapper'>
 	<div id='sm_content'>
-		<img  src='<?php echo plugins_url("mail.png",__FILE__); ?>'>
 	<div id='smtext'> 
 		<p style='font-size:22px;'><?php echo get_post_meta($post->ID,'sm_form_header',true); ?></p>
-		<p><?php echo get_post_meta($post->ID,'sm_form_content',true); ?></p>
 	</div>
 	</div>
 	<div id='sm_form_wrapper'>
