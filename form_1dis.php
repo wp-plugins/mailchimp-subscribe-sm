@@ -16,7 +16,7 @@
 	#sm_top li{
 		list-style:none;
 		margin-left: 5%;
-		font-family: helvetica;
+		font-family: helvetica,sans-serif;
 		font-size: 22px;
 		font-weight: bold;
 		padding:10px 0 20px 2;
