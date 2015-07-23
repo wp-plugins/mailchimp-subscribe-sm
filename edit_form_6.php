@@ -96,8 +96,8 @@
 	<div id='sm_form'>
 		<form>
 			<p>
-				<input disabled type='text' id='' class='sm_field' name='' placeholder='Enter Your Name...'  >
-				<input disabled type='email' id='' class='sm_field' name='' placeholder='Enter Your Email Address...'  >
+				<input disabled type='text' id='' class='sm_field' name='' placeholder='Enter  Name'  >
+				<input disabled type='email' id='' class='sm_field' name='' placeholder='Enter Email'  >
 				<br>
 				<div type='submit' id='sm_submit' class='sm_submit'>
 					<input type='text' name='sm_form_cta_text' value='<?php echo $sm_form_cta_text; ?>' placeholder='CTA Text' class='sm_input_field' style='width:90%; height:32px;' >
