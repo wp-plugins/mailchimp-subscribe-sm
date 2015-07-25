@@ -100,7 +100,7 @@
 	<div id='sm_form'>
 		<form>
 			<p>
-				<input disabled type='email' id='sm_input' class='sm_field' name='sm_email' placeholder='Enter Your Email '  >
+				<input disabled type='email' id='sm_input' class='sm_field' name='sm_email' placeholder='Enter Your Email Address...'  >
 					<input type='text' name='sm_form_cta_text' value='<?php echo $sm_form_cta_text; ?>' placeholder='CTA Text' class='sm_input_field' style='width:20%; height:35px;' >
 
 			</p>
