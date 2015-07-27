@@ -13,7 +13,7 @@
 	}
 	#sm_top{
 		background: #ECEEAD;
-		padding: 1px 0 1px 0;
+		padding: 2px 0 2px 0;
 	}
 	#sm_top li{
 		list-style: url(email-icon.png);
@@ -29,7 +29,7 @@
 	
 	}
 	#sm_content img{
-		width: 25%;
+		width: 22%;
 		height: 90px;
 		float: left;
 		margin:40px 0 0 5%;
@@ -112,7 +112,7 @@
 	#sm_form > input[type="text"],#sm_form >input[type="email"]{
 		margin: 0 auto !important;
 		padding: 0 !important;
-		width: 60% !important;
+		width: 55% !important;
 		height: 35px !important;
 		margin-left: 7% !important;
 		margin-bottom: 1% !important;
